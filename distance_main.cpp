@@ -2,11 +2,9 @@
 //    
 
 
-/*       Name: Joey Yang | Email: jyang474@ucr.edu:
+/*       Name: Joey Yang | Email: joey.yang.j@gmail.com
 
-*          Discussion Section: 022
 
- *         Assignment: Lab #5, Exercise #3
 
  *          
             Exercise Description:
